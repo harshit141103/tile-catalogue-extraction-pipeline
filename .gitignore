@@ -1,0 +1,23 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary/debug files
+*.log
+tmp/
+work/
+
+# Keep these submission outputs tracked:
+# images/
+# output.xlsx
+# extraction_log.csv
+# validation_report.json

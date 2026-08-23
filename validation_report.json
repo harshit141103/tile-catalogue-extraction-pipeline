@@ -1,0 +1,60 @@
+{
+  "tile_records": 1023,
+  "image_files": 1023,
+  "excel_rows": 1023,
+  "required_headers": [
+    "Title",
+    "Length (mm)",
+    "Width (mm)",
+    "Image Name"
+  ],
+  "excel_headers": [
+    "Title",
+    "Length (mm)",
+    "Width (mm)",
+    "Image Name"
+  ],
+  "missing_metadata": [],
+  "duplicate_title_dimension_records": [
+    "LY IMPERIAL PINE|600|600",
+    "LINEAR GREY DECOR|600|600",
+    "3101-L|300|600",
+    "3101-D|300|600",
+    "POLO WOOD-L|300|600",
+    "POLO WOOD-D|300|600",
+    "MONJA SILVER|300|600",
+    "MONJA SILVER-KC-A|300|600",
+    "MONJA SILVER-KC-B|300|600",
+    "MONJA GREY|300|600",
+    "153-L|300|450",
+    "153-D|300|450",
+    "717-L|300|450",
+    "717-D|300|450",
+    "549-L (MATT)|300|450",
+    "1402-L|300|450",
+    "1402-D|300|450",
+    "4102-F|300|300",
+    "6166-D|300|450",
+    "1231-D|300|450"
+  ],
+  "duplicate_image_names": [],
+  "missing_images": [],
+  "aspect_ratio_outliers": [],
+  "aspect_ratio_notices": [
+    "p088_001_RS-07-S_1df24abf.png: 12.6%",
+    "p088_002_RS-07-R_ad7ba498.png: 12.6%",
+    "p088_003_RS-13-S_119896ac.png: 12.6%",
+    "p088_004_RS-13-R_703838e1.png: 12.6%",
+    "p088_005_WOODEN_TEAK-S_9367a7da.png: 12.6%",
+    "p088_006_WOODEN_TEAK-R_ac53edf9.png: 12.6%"
+  ],
+  "below_required_pixel_target": [],
+  "suspiciously_small_images": [],
+  "suspiciously_blank_images": [],
+  "warnings": [],
+  "informational": [
+    "Duplicate title/dimension combinations present in catalogue: 20",
+    "Moderate aspect-ratio notices: 6"
+  ],
+  "passed": true
+}
