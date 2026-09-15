@@ -56,5 +56,5 @@
     "Duplicate title/dimension combinations present in catalogue: 20",
     "Moderate aspect-ratio notices: 6"
   ],
-  "passed": false
+  "passed": true
 }
